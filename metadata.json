@@ -1,0 +1,24 @@
+{
+  "projectId": "kc-synergy-hub",
+  "name": "KC Synergy Portal",
+  "version": "2.0.0",
+  "description": "Sterling B2B EDI Integration Hub & Aura Translation Studio",
+  "techStack": {
+    "core": ["React 19", "Vite 8", "TypeScript 5"],
+    "styling": "Vanilla CSS",
+    "ai": ["Gemini 3.5 Flash", "XGBoost", "Random Forest Classifier", "Q-Learning"]
+  },
+  "modules": [
+    "About",
+    "Navbar",
+    "Hero",
+    "DatabaseViewer",
+    "DiagramsDoc",
+    "HistoryLog",
+    "ModelEvaluator",
+    "PredictForm",
+    "PredictResult",
+    "ProjectReport"
+  ],
+  "author": "Sarah Jenkins"
+}
